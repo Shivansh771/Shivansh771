@@ -12,8 +12,6 @@ I am currently learning and working on native Android app development with kotli
 ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivansh771&show_icons=true&theme=radical)
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ShivanshTariyal)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
