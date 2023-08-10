@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning and working on native Android app development with kotlin.<br>Would love to collaborate on the same.
+I am currently learning and working on native Android app development with kotlin and backend development with java.<br>Would love to collaborate on the same.
 
 
 ## 🌐 Socials:
